@@ -5,7 +5,7 @@
   <br>
 </h1>
 
-<h4 align="center">SilverLining carer finder app made for final year project <a href="http://electron.atom.io" target="_blank">Javascript</a>.</h4>
+<h4 align="center">SilverLining carer finder app made for final year project <a href="https://docs.nestjs.com/cli/monorepo" target="_blank">Nest.js Monorepo</a>.</h4>
 
 
 <p align="center">
