@@ -1,4 +1,4 @@
-## Uber Eats Clone App
+## SilverLining
 
 <h1 align="center">
   Silverlining
